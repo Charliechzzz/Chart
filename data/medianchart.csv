@@ -1,5 +1,5 @@
-﻿NAME,MEDIAN,RATE,JIUSHI
-New South Wales Primary,83,0.299471,566
-New South Wales Secondary,82,0.29712,227
-Western Australia Primary,85,0.355649,239
-Western Australia Secondary,86.5,0.385593,91
+﻿LOCATION,MEDIAN,RATE,JIUSHI,TYPE
+New South Wales,83,0.299471,566,Primary
+New South Wales,82,0.29712,227,Secondary
+Western Australia,85,0.355649,239,Primary
+Western Australia,86.5,0.385593,91,Secondary
